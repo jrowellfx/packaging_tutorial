@@ -1,3 +1,3 @@
 # Example Package
 
-Test creating a python package - tutorial
+Test for creating a proper python package from online tutorial at https://packaging.python.org/tutorials/packaging-projects/#uploading-your-project-to-pypi
