@@ -1,1 +1,3 @@
-# Test creating a python package - tutorial
+# Example Package
+
+Test creating a python package - tutorial
